@@ -1,1 +1,1 @@
-# Gelecekhayalim_VeriBilimi_Kod-dev
+# Gelecekhayalim_VeriBilimi_Kod-Ödev
